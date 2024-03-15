@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about React, Vue, Angular, Next, Nuxt, Node.js, Python, C#, PHP etc
 
-📫 How to reach me happy.dreamhigh.dev@gmail.com
+📫 How to reach me healer.dreamhigh@gmail.com
 
 ⚡ Fun fact I love MMA, boxing and kickboxing, and fighting is my favorite exercise. I don’t know if mankind ever stumbled on a better way to burn calories, relieve stress and get to know oneself than martial arts.
 
